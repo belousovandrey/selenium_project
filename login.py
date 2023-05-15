@@ -30,3 +30,4 @@ print("GOOD LINK")
 
 time.sleep(3)
 # driver.close()
+# driver.close()
